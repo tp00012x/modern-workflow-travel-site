@@ -8,7 +8,7 @@ const cssImport = require('postcss-import');
 const browserSync = require('browser-sync').create();
 
 gulp.task('default', function () {
-   console.log('Horray');
+   console.log('Hooray');
 });
 
 gulp.task('html', function () {
